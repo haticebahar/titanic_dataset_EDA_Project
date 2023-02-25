@@ -1,4 +1,4 @@
-# titanic_dataset_EDA_Project
+# Titanic Veri Seti EDA Projesi
 
 ## Keşif Veri Analizini (EDA) uygulama ve Makine Öğrenimi Algoritmalarını uygulamak için verileri hazırlama
 
